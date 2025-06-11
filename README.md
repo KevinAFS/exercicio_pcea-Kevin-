@@ -1,3 +1,9 @@
-# exercicio_pcea
+A matéria de fundamentos P.C. E A. me chamou a atenção desde o início, introduzindo diversos tópicos importantes da área da computação, como, por exemplo, a introdução a Sistemas da informação, introdução a Hardware e Software e a organização do Sistemas de computação. Que tem como objetivo nos ensinar a compreender o contexto dos sistemas computacionais e examinar os princípios que envolvem os sistemas de informação. Utilizar conhecimentos essenciais e aprofundados de hardware e software por meio da análise da estrutura dos componentes que integram o computador, bem como das diversas arquiteturas computacionais disponíveis, com o propósito de interpretar seu funcionamento e compreender sua aplicação nos diferentes modelos de processamento.
 
-## Fazer um fork desse repositório e enviar uma alteração no README.md, com um parágrafo sobre essa matéria.
+Os tópicos-chaves citados anteriormente podem ser melhor descritos da seguinte maneira: 
+
+Introdução a sistemas da informação - Nesse tópico, aprendemos sobre os conjuntos organizados de pessoas, processos, dados e tecnologias que trabalham juntos para coletar, processar, armazenar e distribuir informações, ou seja, Sistemas de informações. 
+
+Introdução a Hardware e Software - Nesse tópico, foram abordados os conceitos básicos e essenciais de Hardware e Software, fundamentais para entender sistemas computacionais. Ou seja, aprendemos a diferença entre sistemas físicos e programas/sistemas que fazem um computador funcionar, bem como dispositivos de entrada/saída que podem ser usados nos mesmos e os aspectos legais e de licenciatura envolvendo Software. 
+
+Organização dos Sistemas de Computação - Nesse tópico, aprendemos sobre a importância em entender como os computadores e suas aplicações podem ser projetados para serem rápidos e eficientes, como em tarefas mais pesadas e que exigem maior desempenho da máquina, além disso, vimos as diferenças entre Arquitetura CISC x RISC assim como conceitos básicos de paralelismo e seu funcionamento para um desempenho melhorado de sistemas.
